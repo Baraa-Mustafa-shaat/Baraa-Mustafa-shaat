@@ -8,8 +8,7 @@ I'm passionate about programming and dedicated to learning and growing, with a v
 - 🤝 **Interested in collaborating on:** open-source projects and new ideas in Java development.
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages:** Python, Java, HTML
-- **Tools & Technologies:** Git, GitHub, IntelliJ IDEA
+- **Programming Languages:** Python, Java, HTML ,CSS ,JS
 
 ## 📫 How to Reach Me
 I’m always open to connecting with fellow developers, discussing fresh ideas, and exploring collaboration opportunities! Feel free to reach out:
